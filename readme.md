@@ -3,8 +3,7 @@
 
 Cruce entre distintas fuentes de datos para ver la correlación entre la cobertura mediática de casos de delincuencia en Chile en comparación con las estadísticas mensuales de delitos en el país.
 
-La hipótesis es que, si bien la delincuencia ha aumentado, la cobertura de prensa de estos temas ha aumentado en una medida mucho más grande que el fenómeno que pretende reflejar.
-
+> La hipótesis es que, si bien la delincuencia ha aumentado, **la cobertura de prensa de temas sobre delincuencia ha aumentado en una medida mucho más grande que el fenómeno que pretende reflejar**.
 
 ![](grafico_delincuencia_prensa.png)
 
@@ -29,3 +28,9 @@ Los datos de noticias son obtenidos de mi proyecto [Análisis de prensa chilena]
 Los datos de delincuencia son obtenidos desde el [Centro de Estudio y Análisis del Delito (CEAD)](https://cead.minsegpublica.gob.cl/estadisticas-delictuales/), por medio de mi proyecto [Visualizador de estadísticas oficiales de delincuencia en Chile](https://github.com/bastianolea/delincuencia_chile/). 
 
 Los delitos de mayor connotación social son: Homicidios, Violencia intrafamiliar, Robos con violencia o intimidación, Robo violento de vehículo motorizado, Robo en lugar habitado, Robos en lugar no habitado, Robo por sorpresa, Robo frustrado, Hurtos, Robo de vehículo motorizado, Otros robos con fuerza en las cosas, Lesiones graves o gravísimas, Lesiones menos graves, Lesiones leves, Homicidios, Femicidios, Violaciones. 
+
+----
+
+Código bajo licencia de código abierto GPL3.
+
+**Bastián Olea Herrera**. Sociólogx y analista de datos. https://bastianolea.rbind.io
